@@ -182,4 +182,34 @@ button {
   line-height: normal;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.footer {
+  padding: 24px 0;
+  background: #33323D;
+}
+.footer-box {
+  display: flex;
+  align-items: center;
+}
+.footer-link {
+  color: #FFF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.footer-list {
+  display: flex;
+  gap: 0 42px;
+}
+
+.footer-img {
+  margin-right: 50px;
+}
+
+.footer-img-2 {
+  margin-left: 590px;
 }/*# sourceMappingURL=main.css.map */
