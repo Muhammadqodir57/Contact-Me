@@ -74,6 +74,9 @@ button {
   text-transform: uppercase;
 }
 
+.hero {
+  margin-bottom: 48px;
+}
 .hero-line {
   width: 1110px;
   height: 1px;
@@ -103,4 +106,80 @@ button {
 .hero-box {
   display: flex;
   justify-content: space-between;
+}
+
+.info {
+  margin-bottom: 110px;
+}
+.info-box {
+  display: flex;
+  justify-content: space-between;
+}
+.info-line {
+  width: 1110px;
+  height: 1px;
+  margin-bottom: 48px;
+  opacity: 0.15;
+  background: #33323D;
+}
+.info-title {
+  width: 350px;
+  color: #33323D;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+  letter-spacing: -0.357px;
+}
+
+.info-text {
+  width: 635px;
+  color: #33323D;
+  margin-bottom: 8px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  opacity: 0.8;
+}
+
+.input {
+  padding: 9px 0 9px 16px;
+  width: 635px;
+  margin-bottom: 24px;
+  height: 48px;
+  opacity: 0.1;
+  background: #33323D;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  opacity: 0.4;
+}
+
+.input-3 {
+  padding: 9px 0 57px 16px;
+  width: 635px;
+  height: 96px;
+  margin-bottom: 24px;
+  opacity: 0.1;
+  background: #33323D;
+  color: #33323D;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  opacity: 0.4;
+}
+
+.info-btn {
+  padding: 17px 24px;
+  color: #FFF;
+  background: #203A4C;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=main.css.map */
